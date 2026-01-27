@@ -15,3 +15,16 @@ Express server with MongoDB (Mongoose) integration and full CRUD for notes.
 
 Live Demo:
 https://zero2-mongodb-rrly.onrender.com
+
+## 03-validation
+
+Express server with MongoDB, full CRUD, **pagination**, **filtering** and **request validation** using Celebrate.
+
+- GET /notes with `page`, `perPage`, `tag` and `search` query parameters
+- GET /notes/:noteId
+- POST /notes
+- PATCH /notes/:noteId
+- DELETE /notes/:noteId
+
+Live Demo:
+https://zero3-validation-ajsv.onrender.com
