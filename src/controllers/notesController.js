@@ -8,7 +8,7 @@ export const getAllNotes = async (req, res) => {
   const skip = (page - 1) * perPage;
 
   // Створюємо базовий запит до колекції
-  const notesQuery = Note.find();
+  const notesQuery = Note.find({ userId: req.user._id });
 
   if (search) {
     notesQuery.where({ $text: { $search: search } });
