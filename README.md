@@ -31,4 +31,7 @@ https://zero3-validation-ajsv.onrender.com
 
 ## 04-auth
 
+Express.js REST API with user authentication and private notes.
+
 Live Demo:
+https://zero4-auth-pjjy.onrender.com
