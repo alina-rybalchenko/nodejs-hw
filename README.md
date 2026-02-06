@@ -28,3 +28,7 @@ Express server with MongoDB, full CRUD, **pagination**, **filtering** and **requ
 
 Live Demo:
 https://zero3-validation-ajsv.onrender.com
+
+## 04-auth
+
+Live Demo:
