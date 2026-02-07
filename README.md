@@ -38,4 +38,7 @@ https://zero4-auth-pjjy.onrender.com
 
 ## 05-mail-and-img
 
+Express backend with password reset via email and user avatar upload.
+
 Live Demo:
+https://zero5-mail-and-img-t6ui.onrender.com
